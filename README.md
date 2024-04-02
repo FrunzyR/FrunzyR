@@ -1,10 +1,11 @@
 ### Welcome! 👋
 
 🐈 Engineering Physics graduate with a Programming background. 🐈
+
+
 I'm currenty working with Python 🐍, Flask 🧪 and Vue 💚
 
 Possessing developed analytical, problem-solving, and teamwork skills acquired through academic endeavors and volunteer work.
-
 Equipped with a technical background and a knack for rapid learning, well-suited for a prosperous career in software development.
 <!--
 **FrunzyR/FrunzyR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
