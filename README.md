@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-🐈 Engineering Physics graduate and Data Science Masters student with a Programming background. 🐈
+🐈 Data Science Masters student and Engineering Physics graduate with a Programming background. 🐈
 
 
 I'm currenty working with Python 🐍, Flask 🧪 and Vue 💚
